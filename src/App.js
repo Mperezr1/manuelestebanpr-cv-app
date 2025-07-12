@@ -8,7 +8,7 @@ import CVPage from './components/pages/CVPage';
 import AdminDashboard from './components/pages/AdminDashboard';
 
 const cvData = {
-  name: "Johnathan Doe",
+  name: "Manuel Esteban Perez Renteria",
   title: "Senior Java Spring Boot Developer",
   contact: {
     email: "john.doe@email.com",
